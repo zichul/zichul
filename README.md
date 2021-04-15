@@ -21,7 +21,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" width="36px"/>
   <img src="https://cdn.worldvectorlogo.com/logos/ruby.svg" width="36px"/>
   <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" width="36px"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" width="36px"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="36px"/>
   <img src="https://cdn.worldvectorlogo.com/logos/vim.svg" width="36px"/>
   <img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" width="36px"/>
 </div>

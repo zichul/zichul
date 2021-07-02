@@ -1,4 +1,4 @@
-### Hi there, I'm Konrad <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"></a>😀
+### Hi there, I'm Konrad <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">😀
 
 ### I'm a Site Reliability Engineer @ Fresha
 

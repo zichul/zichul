@@ -6,7 +6,7 @@
 
 <div>
   <a href="https://www.linkedin.com/in/konradkozicki">
-    <img src="https://www.flaticon.com/svg/static/icons/svg/145/145807.svg" width="36px"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width="36px"/>
   </a>
   <a href="mailto:zichul@gmail.com">
     <img src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" width="36px"/>

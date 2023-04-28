@@ -1,27 +1,38 @@
-### Hi there, I'm Konrad <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">😀
+### Hi there, I'm Konrad😀
+- 🌱 I’m currently working on **multiple projects**                               
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/konradkozicki), [Email](mailto:zichul@gmail.com)   
 
-### I'm a Site Reliability Engineer @ Fresha
 
-### Connect with me
+***Languages and Tools:*** 
 
-<div>
-  <a href="https://www.linkedin.com/in/konradkozicki">
-    <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width="36px"/>
-  </a>
-  <a href="mailto:zichul@gmail.com">
-    <img src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" width="36px"/>
-  </a>
-</div>
-
-### Language and tools
-
-<div>
-  <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" width="36px"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/kubernets.svg" width="36px"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" width="36px"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/ruby.svg" width="36px"/>
-  <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" width="36px"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="36px"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/vim.svg" width="36px"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" width="36px"/>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ableton" width="40px" alt="ableton icon"/>
+  <img src="https://skillicons.dev/icons?i=aws" width="40px" alt="aws icon"/>
+  <img src="https://skillicons.dev/icons?i=bash" width="40px" alt="bash icon"/>
+  <img src="https://skillicons.dev/icons?i=css" width="40px" alt="css3 icon"/>
+  <img src="https://skillicons.dev/icons?i=docker" width="40px" alt="docker icon"/>
+  <img src="https://skillicons.dev/icons?i=elixir" width="40px" alt="elixir icon"/>
+  <img src="https://skillicons.dev/icons?i=firebase" width="40px" alt="firebase icon"/>
+  <img src="https://skillicons.dev/icons?i=gcp" width="40px" alt="gcp icon"/>
+  <img src="https://skillicons.dev/icons?i=git" width="40px" alt="git icon"/>
+  <img src="https://skillicons.dev/icons?i=graphql" width="40px" alt="graphql icon"/>
+  <img src="https://skillicons.dev/icons?i=html" width="40px" alt="html5 icon"/>
+  <img src="https://skillicons.dev/icons?i=jenkins" width="40px" alt="jenkins icon"/>
+  <img src="https://skillicons.dev/icons?i=js" width="40px" alt="js icon"/>
+  <img src="https://skillicons.dev/icons?i=kubernetes" width="40px" alt="kubernetes icon"/>
+  <img src="https://skillicons.dev/icons?i=linux" width="40px" alt="linux icon"/>
+  <img src="https://skillicons.dev/icons?i=lua" width="40px" alt="lua icon"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" width="40px" alt="mongodb icon"/>
+  <img src="https://skillicons.dev/icons?i=neovim" width="40px" alt="neovim icon"/>
+  <img src="https://skillicons.dev/icons?i=nginx" width="40px" alt="nginx icon"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" width="40px" alt="nodejs icon"/>
+  <img src="https://skillicons.dev/icons?i=postgres" width="40px" alt="postgres icon"/>
+  <img src="https://skillicons.dev/icons?i=python" width="40px" alt="python icon"/>
+  <img src="https://skillicons.dev/icons?i=rails" width="40px" alt="rails icon"/>
+  <img src="https://skillicons.dev/icons?i=raspberrypi" width="40px" alt="raspberrypi icon"/>
+  <img src="https://skillicons.dev/icons?i=react" width="40px" alt="react icon"/>
+  <img src="https://skillicons.dev/icons?i=redis" width="40px" alt="redis icon"/>
+  <img src="https://skillicons.dev/icons?i=ruby" width="40px" alt="ruby icon"/>
+  <img src="https://skillicons.dev/icons?i=sentry" width="40px" alt="sentry icon"/>
+  <img src="https://skillicons.dev/icons?i=xd" width="40px" alt="xd icon"/>
 </div>

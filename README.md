@@ -1,6 +1,5 @@
 ### Hi there, I'm Konrad😀
 - 🌱 I’m currently working on **multiple projects**                               
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/konradkozicki), [Email](mailto:zichul@gmail.com)   
 
 
 ***Languages and Tools:*** 
